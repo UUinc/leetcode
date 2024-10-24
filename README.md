@@ -23,8 +23,6 @@ The solutions are organized by problem categories and include:
 #### if you have any question feel free to ask :smile:
 
 ### Contacts
-
--   uu.soft.inc@gmail.com
 -   [github](https://github.com/UUinc)
 -   [twitter](https://twitter.com/yahya_lz)
 -   [linkedin](https://www.linkedin.com/in/yahyalazrek)
