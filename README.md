@@ -4,7 +4,7 @@ Welcome to my LeetCode Solutions repository! This repository contains my solutio
 
 ## About
 
-This project was generated using the [leetcode_tool](https://github.com/Hamza-ouabiba/leetcode_tool) repository by Hamza Ouabiba, which streamlines the process of organizing and managing LeetCode solutions.
+This project was generated using the [leetcode_tool](https://github.com/Hamza-ouabiba/leetcode_tool) repository by [Hamza Ouabiba](https://github.com/Hamza-ouabiba), which streamlines the process of organizing and managing LeetCode solutions.
 
 ## Structure
 
@@ -17,7 +17,7 @@ The solutions are organized by problem categories and include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/UUinc/leetcode.git
    ```
 
 #### if you have any question feel free to ask :smile:
